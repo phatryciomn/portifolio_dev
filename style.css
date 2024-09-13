@@ -15,6 +15,10 @@ header{
     border-radius: 10px
 }
 
+.back{
+    
+}
+
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -66,4 +70,7 @@ ul{
     color: #007bff;
 }
 
-
+.texto{
+    padding-top: 100px;
+    padding-left: 100px;
+}
