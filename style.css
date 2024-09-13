@@ -15,8 +15,19 @@ header{
     border-radius: 10px
 }
 
-.back{
-    
+.texto{
+    background-image: url(/imagens_portifolio/img.png);
+    padding-bottom: 630px;
+}
+
+.vermelho{
+    color: red;
+}
+
+.submit{
+    padding: 10px;
+    color: #fff;
+    background-color: blue;
 }
 
 .navbar{
